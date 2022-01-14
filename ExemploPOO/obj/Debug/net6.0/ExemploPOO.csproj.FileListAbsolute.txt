@@ -1,0 +1,15 @@
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.AssemblyReference.cache
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.exe
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.deps.json
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.runtimeconfig.json
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.dll
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\bin\Debug\net6.0\ref\ExemploPOO.dll
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\bin\Debug\net6.0\ExemploPOO.pdb
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.dll
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ref\ExemploPOO.dll
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.pdb
+C:\Users\Yasmim\OneDrive\Documentos\DIO\POO\ExemploPOO\obj\Debug\net6.0\ExemploPOO.genruntimeconfig.cache
